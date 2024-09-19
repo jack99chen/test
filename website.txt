@@ -31,10 +31,10 @@ www.shopify.com
 www.udacity.com
 www.udemy.com
 www.visa.co.jp
-www.visa.com
-www.visa.com.hk
-www.visa.com.sg
-www.visa.com.tw
+www.visa.com#visa国际
+www.visa.com.hk#visa香港
+www.visa.com.sg#visa新加坡
+www.visa.com.tw#visa台湾
 www.visakorea.com
 www.whatismyip.com
 www.whoer.net
